@@ -1,1 +1,0 @@
-# flashcard-frontend-parte-tres
